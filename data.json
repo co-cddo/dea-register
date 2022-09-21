@@ -1,6 +1,6 @@
 [
   {
-    "title": "Digital Economies Act Register",
+    "title": "Digital Economy Act Register",
     "description": "Agreements under the Digital Economies Act",
     "identifier": "https://www.gov.uk/government/publications/register-of-information-sharing-agreements-under-chapters-1-2-3-and-4-of-part-5-of-the-digital-economy-act-2017",
     "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -11,7 +11,7 @@
     "distribution": [
       {
         "downloadURL": "https://github.com/co-cddo/dea-register/blob/main/DEA_Register_of_Information_Sharing_Agreements_.ods?raw=true",
-        "title": "Digital Economies Act agreements",
+        "title": "Digital Economy Act Register",
         "format": "application/vnd.oasis.opendocument.spreadsheet"
       }
     ]
