@@ -10,7 +10,7 @@
     },
     "distribution": [
       {
-        "downloadURL": "https://github.com/co-cddo/digital-economies-act-agreements/blob/main/DEA_Register_of_Information_Sharing_Agreements_.ods",
+        "downloadURL": "https://github.com/co-cddo/dea-register/blob/main/DEA_Register_of_Information_Sharing_Agreements_.ods",
         "title": "Digital Economies Act agreements",
         "format": "application/vnd.oasis.opendocument.spreadsheet"
       }
